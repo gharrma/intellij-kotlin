@@ -1,0 +1,62 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KotlinPluginSources">
+    <output-path>$PROJECT_DIR$/out/artifacts/KotlinPluginSources</output-path>
+    <root id="archive" name="KotlinPluginSources.jar">
+      <element id="module-source" name="kotlin.all-tests" />
+      <element id="module-source" name="kotlin.common" />
+      <element id="module-source" name="kotlin.compiler-plugins.allopen" />
+      <element id="module-source" name="kotlin.compiler-plugins.annotation-based-compiler-support" />
+      <element id="module-source" name="kotlin.compiler-plugins.kapt" />
+      <element id="module-source" name="kotlin.compiler-plugins.kotlinx-serialization" />
+      <element id="module-source" name="kotlin.compiler-plugins.noarg" />
+      <element id="module-source" name="kotlin.compiler-plugins.parcelize" />
+      <element id="module-source" name="kotlin.compiler-plugins.sam-with-receiver" />
+      <element id="module-source" name="kotlin.compiler-plugins.scripting" />
+      <element id="module-source" name="kotlin.compiler-plugins.scripting-ide-services" />
+      <element id="module-source" name="kotlin.core" />
+      <element id="module-source" name="kotlin.eval4j" />
+      <element id="module-source" name="kotlin.fir.frontend-independent" />
+      <element id="module-source" name="kotlin.formatter" />
+      <element id="module-source" name="kotlin.generators" />
+      <element id="module-source" name="kotlin.git" />
+      <element id="module-source" name="kotlin.gradle.gradle-idea" />
+      <element id="module-source" name="kotlin.gradle.gradle-native" />
+      <element id="module-source" name="kotlin.gradle.gradle-tooling" />
+      <element id="module-source" name="kotlin.idea" />
+      <element id="module-source" name="kotlin.j2k.idea" />
+      <element id="module-source" name="kotlin.j2k.new" />
+      <element id="module-source" name="kotlin.j2k.old" />
+      <element id="module-source" name="kotlin.j2k.services" />
+      <element id="module-source" name="kotlin.jps-common" />
+      <element id="module-source" name="kotlin.jps-plugin" />
+      <element id="module-source" name="kotlin.jvm" />
+      <element id="module-source" name="kotlin.jvm-debugger.core" />
+      <element id="module-source" name="kotlin.jvm-debugger.coroutines" />
+      <element id="module-source" name="kotlin.jvm-debugger.evaluation" />
+      <element id="module-source" name="kotlin.jvm-debugger.sequence" />
+      <element id="module-source" name="kotlin.jvm-debugger.util" />
+      <element id="module-source" name="kotlin.line-indent-provider" />
+      <element id="module-source" name="kotlin.maven" />
+      <element id="module-source" name="kotlin.native" />
+      <element id="module-source" name="kotlin.project-wizard.cli" />
+      <element id="module-source" name="kotlin.project-wizard.core" />
+      <element id="module-source" name="kotlin.project-wizard.idea" />
+      <element id="module-source" name="kotlin.repl" />
+      <element id="module-source" name="kotlin.scripting" />
+      <element id="module-source" name="kotlin.tests-common" />
+      <element id="module-source" name="kotlin.uast.uast-kotlin" />
+      <element id="module-source" name="kotlin.uast.uast-kotlin-idea" />
+      <element id="module-source" name="kotlin.util.compiler-classpath" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/allopen-compiler-plugin-for-ide/1.4.30-203-dev-local-for-studio/allopen-compiler-plugin-for-ide-1.4.30-203-dev-local-for-studio-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/android-extensions-compiler-plugin-for-ide/1.4.30-203-dev-local-for-studio/android-extensions-compiler-plugin-for-ide-1.4.30-203-dev-local-for-studio-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/parcelize-compiler-plugin-for-ide/1.4.30-203-dev-local-for-studio/parcelize-compiler-plugin-for-ide-1.4.30-203-dev-local-for-studio-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-gradle-statistics-for-ide/1.4.30-203-dev-local-for-studio/kotlin-gradle-statistics-for-ide-1.4.30-203-dev-local-for-studio-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-compiler-for-ide/1.4.30-203-dev-local-for-studio/kotlin-compiler-for-ide-1.4.30-203-dev-local-for-studio-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlinx-serialization-compiler-plugin-for-ide/1.4.30-203-dev-local-for-studio/kotlinx-serialization-compiler-plugin-for-ide-1.4.30-203-dev-local-for-studio-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-dist-for-ide/1.4.30-203-dev-local-for-studio/kotlin-dist-for-ide-1.4.30-203-dev-local-for-studio-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/sam-with-receiver-compiler-plugin-for-ide/1.4.30-203-dev-local-for-studio/sam-with-receiver-compiler-plugin-for-ide-1.4.30-203-dev-local-for-studio-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/noarg-compiler-plugin-for-ide/1.4.30-203-dev-local-for-studio/noarg-compiler-plugin-for-ide-1.4.30-203-dev-local-for-studio-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-for-ide/1.4.30-203-dev-local-for-studio/kotlin-stdlib-for-ide-1.4.30-203-dev-local-for-studio-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
